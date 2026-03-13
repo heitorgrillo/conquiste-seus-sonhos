@@ -1,0 +1,47 @@
+{
+  "name": "Alfabetização de Adultos - CSS",
+  "short_name": "CSS Alfabetização",
+  "description": "App gratuito de alfabetização para adultos. 40 aulas do zero à escrita completa. Prof. Heitor Grillo.",
+  "start_url": "/conquiste-seus-sonhos/",
+  "scope": "/conquiste-seus-sonhos/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#009C3B",
+  "theme_color": "#009C3B",
+  "lang": "pt-BR",
+  "categories": ["education"],
+  "icons": [
+    {
+      "src": "icone_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icone_512.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screen1.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screen2.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screen3.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}
